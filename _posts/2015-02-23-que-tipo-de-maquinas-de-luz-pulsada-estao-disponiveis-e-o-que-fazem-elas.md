@@ -4,7 +4,7 @@ title: Que tipo de máquinas de luz pulsada estão disponíveis, e o que fazem e
 category: artigo
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Existe um grande número de máquinas de luz pulsada, incluindo a LumenisI® Quantum IPL® (sucessora da PhotoDerm®), a EpiLight® e a Ellipse®. Máquinas individuais podem ser especialmente desenhadas para se concentrarem em determinados problemas, mas poderão não ser tão eficazes.
 

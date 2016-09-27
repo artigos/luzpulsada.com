@@ -4,7 +4,7 @@ title: Informações a ter em Conta com a Luz Pulsada
 category: artigo
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A luz pulsada também pode ser utilizada para remoção de pêlos, apesar de não ser tão eficaz quanto o laser, para este fim.
 

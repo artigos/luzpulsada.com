@@ -3,11 +3,11 @@ layout: default
 title: Definição
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A luz pulsada é uma tecnologia utilizada por institutos de beleza e médicos para realizar diversos tratamentos da pele, incluindo remoção de pêlos e foto rejuvenescimento. Esta tecnologia tira partido de diversos comprimentos de onda da luz para atingir determinados cromóforos na pele.
 
-##Definição
+## Definição
 
 A luz pulsada consiste na utilização de pulsos intensos de luz não coerente, distribuídos por uma série de comprimentos de onda compreendidos entre 500nm e 1200nm, para remoção de pêlos, entre outras aplicações. Uma técnica relacionada (mas distinta) consiste na remoção de pêlos com laser. A principal diferença reside no facto de que este último recorre a uma luz coerente e monocromática gerada pelo laser.
 

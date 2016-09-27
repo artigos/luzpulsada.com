@@ -3,7 +3,7 @@ layout: default
 title: Doenças da pele
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A tecnologia de luz pulsada é utilizada para tratamento de doenças da pele, incluindo:
 

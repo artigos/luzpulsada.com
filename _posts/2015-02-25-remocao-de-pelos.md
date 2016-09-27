@@ -3,7 +3,7 @@ layout: default
 title: Remoção de pêlos
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A luz concentrada, de espectro total, é aplicada na superfície da pele, com recurso a uma varinha ou a um braço articulado. Esta luz viaja através da pele, até que atinja o eixo do cabelo ou o bulbo capilar (a raiz do pêlo). O bulbo é onde existe, por norma, a maior concentração de melanina, em relação a todo o eixo do pêlo. Assim que a luz é convertida em energia sob a forma de calor, o bulbo e a maior parte do eixo do cabelo são vaporizados instantaneamente.
 

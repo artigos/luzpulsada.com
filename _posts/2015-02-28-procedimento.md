@@ -3,7 +3,7 @@ layout: default
 title: Procedimento
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Antes de levar a cabo o procedimento, o especialista responsável deverá explicar-lhe o processo e definir claramente as expectativas em relação ao tratamento. Ele deverá ser capaz de lhe dizer se os resultados que procura são realistas, utilizando este método. É importante que seja feito um diagnóstico correcto pelo seu médico, antes de levar a cabo o tratamento.
 

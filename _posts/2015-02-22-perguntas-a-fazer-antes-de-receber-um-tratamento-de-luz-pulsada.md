@@ -4,7 +4,7 @@ title: Perguntas a Fazer antes de Receber um Tratamento de Luz Pulsada
 category: artigo
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 "Por que sou um bom candidato a luz pulsada, e como é que este método funciona?" Isto dá-lhe uma boa ideia de quanto conhecimento sobre o assunto ele tem.
 

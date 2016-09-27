@@ -4,7 +4,7 @@ title: A Luz Pulsada é permanente?
 category: artigo
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Muitas publicidades garantem que os tratamentos a laser ou a luz pulsada podem deixá-la permanentemente sem pêlos. O Dr. Philip Artemi, um dermatologista de Sydney, diz que muitos operadores adoptam a palavra “permanentemente” com um significado bastante livre, nas suas publicidades.
 

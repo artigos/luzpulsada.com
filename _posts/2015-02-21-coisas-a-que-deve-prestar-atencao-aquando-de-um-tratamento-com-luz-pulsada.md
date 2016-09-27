@@ -4,7 +4,7 @@ title: Coisas a que deve prestar atenção aquando de um tratamento com luz puls
 category: artigo
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O operador tem um formulário de admissão e discute quaisquer preocupações que possa ter, antes do tratamento.
 

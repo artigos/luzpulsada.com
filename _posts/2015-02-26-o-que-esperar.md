@@ -3,7 +3,7 @@ layout: default
 title: O que esperar?
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A Terapia de Luz Pulsada Intensa deverá ser executada por um dermatologista perito no procedimento.
 <ul>

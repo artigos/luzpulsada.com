@@ -3,7 +3,7 @@ layout: default
 title: Contra-indicações
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Certas doenças de pele, condições de saúde e certos tipos de medicação podem afectar a segurança do processo de remoção de pelos para certas pessoas. Esta lista diz respeito quer a <strong>tratamentos de luz pulsada</strong>, quer aos convencionais tratamentos a laser.
 

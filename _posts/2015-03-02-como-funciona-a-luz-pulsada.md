@@ -3,7 +3,7 @@ layout: default
 title: Como funciona a luz pulsada?
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A <strong>luz pulsada</strong> recorre a pequenos jactos de luz policromática, de elevada densidade, para penetrar na região imediatamente abaixo da superfície da pele, danificando ou a melanina responsável pelo aparecimento das “marcas de idade” castanhas ou os vasos sanguíneos que criam trincas capilares. A pele repara estes danos, dando-lhe um tom de pele mais uniforme. A <strong>luz pulsada</strong> é também apresentada como uma forma de aumentar os níveis de colagénio e elastina.
 

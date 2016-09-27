@@ -3,7 +3,7 @@ layout: default
 title: Efeitos Secundários
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os efeitos secundários são insignificantes, e incluem:
 
